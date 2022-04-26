@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class palindromic {
 
     public static void main(String[] args) {
-        // Palindromik kelime örneği: nalan,kapak,mum,kapak
+        // Palindromik kelime örneği: nalan,kapak,mum
     
             Scanner scanner = new Scanner(System.in);
             System.out.print("Bir kelime giriniz: ");
